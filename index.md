@@ -11,7 +11,8 @@ Link to an image
 Link to other folder
 - [Time Series Decomposition](/timeseries/index.md)
 
-This is a poor place to link to a repository, but here is such a link:
+Link to other repository
 - [Sample Repository](https://github.com/tracyccwm/sample)
 
+Link to Youtube video
 [![Cyberpunk 2077 Commercial](https://img.youtube.com/vi/U8qJc6znzZc/0.jpg)](http://www.youtube.com/watch?v=U8qJc6znzZc)
