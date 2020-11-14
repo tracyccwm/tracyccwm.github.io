@@ -1,5 +1,5 @@
 ---
-title: M3: GitHub Portfolio Assignment
+title: M3 GitHub Portfolio Assignment
 description: Tracy Cheng
 ---
 
