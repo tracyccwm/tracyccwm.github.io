@@ -8,6 +8,7 @@ Create a website on GitHub.com that you will populate with your portfolio materi
 Link to an image
 ![My Picture](/pics/Tracy1.jpg)
 
+Link to other folder
 - [Time Series Decomposition](/timeseries/index.md)
 
 This is a poor place to link to a repository, but here is such a link:
