@@ -1,5 +1,5 @@
 ---
-title: GitHub Portfolio Assignment
+title: GitHub Portfolio
 description: Tracy Cheng
 ---
 
