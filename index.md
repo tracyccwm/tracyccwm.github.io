@@ -1,6 +1,6 @@
 ---
 title: M3: GitHub Portfolio Assignment
-description: The titles and descriptions can be changed
+description: Tracy Cheng
 ---
 
 ![My Picture](/pics/Tracy1.jpg)
