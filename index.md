@@ -1,5 +1,5 @@
 ---
-title: New Title
+title: M3: GitHub Portfolio Assignment
 description: The titles and descriptions can be changed
 ---
 
