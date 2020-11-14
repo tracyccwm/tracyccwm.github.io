@@ -22,4 +22,4 @@ Create a website on GitHub.com that you will populate with your portfolio materi
 
 - Link to Youtube video
 
-[![Cyberpunk 2077 Commercial](https://img.youtube.com/vi/U8qJc6znzZc/0.jpg)](http://www.youtube.com/watch?v=U8qJc6znzZc)
+  [![Cyberpunk 2077 Commercial](https://img.youtube.com/vi/U8qJc6znzZc/0.jpg)](http://www.youtube.com/watch?v=U8qJc6znzZc)
