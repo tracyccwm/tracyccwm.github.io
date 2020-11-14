@@ -3,7 +3,7 @@ title: New Title
 description: The titles and descriptions can be changed
 ---
 
-![My Picture](/pics/Tracy.JPG)
+![My Picture](/pics/Tracy1.JPG)
 
 This is content I've developed for my courses:
 
