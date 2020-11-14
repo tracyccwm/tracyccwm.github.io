@@ -3,9 +3,10 @@ title: M3: GitHub Portfolio Assignment
 description: Tracy Cheng
 ---
 
-![My Picture](/pics/Tracy1.jpg)
+Create a website on GitHub.com that you will populate with your portfolio materials throughout the MSBA Program and thereafter. You can easily convey your capabilities by sending potential employers a link to your GitHub website. 
 
-This is content I've developed for my courses:
+Link to an image
+![My Picture](/pics/Tracy1.jpg)
 
 - [Time Series Decomposition](/timeseries/index.md)
 
